@@ -1,1 +1,1 @@
-This is a program designed to recreate THX's DeepNote:tm: sound. It's just a project for funsies, so updates may not be frequent.
+This is a program designed to recreate THX's DeepNote :tm: sound. It's just a project for funsies, so updates may not be frequent.
